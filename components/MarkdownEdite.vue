@@ -1,7 +1,6 @@
 <template>
   <div>
     <mavon-editor :toolbars="markdownOptionRef" v-model="handbookRef"/>
-    <el-button @click="handChange">点击</el-button>
   </div>
 </template>
 

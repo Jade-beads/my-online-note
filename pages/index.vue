@@ -1,17 +1,8 @@
 <template>
-  <div>
-    <markdown-edite></markdown-edite>
-  </div>
+  <p>123</p>
 </template>
-
-<script>
-export default {
-  name: "index",
-  components: {},
-
-}
-</script>
-
-<style scoped>
+<script></script>
+<style>
 
 </style>
+
