@@ -6,9 +6,11 @@
     "start": "node .output/server/index.mjs"
   },
   "devDependencies": {
-    "nuxt3": "latest"
+    "nuxt3": "^3.0.0-27277498.850ef69",
+    "unplugin-vue-components": "^0.17.21"
   },
   "dependencies": {
+    "element-plus": "^1.2.0-beta.3",
     "axios": "^0.26.0"
   }
 }
